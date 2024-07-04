@@ -193,6 +193,39 @@ header {
   display: flex;
 }
 
+#description-container{
+  margin-top: 30px;
+}
+
+/* Dashboard */
+.dashboard-title-container {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.dashboard-events-container th {
+  width: 25%;
+}
+
+.dashboard-events-container form {
+  display: inline-block;
+}
+
+#info-container .already-joined-msg {
+  margin: 15px 0;
+  color: #004085;
+  background-color: #CCE5FF;
+  border: 1px solid #b8daff;
+  padding: 10px;
+  width: 275px;
+}
+
+/* Edit page */
+
+.img-preview {
+  width: 100px;
+  margin-top: 20px;
+}
 
 
 /* footer */
